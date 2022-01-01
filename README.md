@@ -22,7 +22,7 @@ What to expect:
 - Ability to share screen
 - Ability to create polls and record user data
 
- ## **Version 1.1: Coming Soon** ##
+ ## **Version 1.1.0: Coming Soon** ##
 Plans: 
 - Implementation to send image attachements in chat
 
