@@ -1,6 +1,6 @@
 # **Welcome to Worldleo!** #
 
-An all in one Conference Application made and designed for developpers made with the Agora App builder with my implementation to chat in real-time and create polls using Reactjs, Nodejs, Javascript and Typescript!
+An all in one Conference Application made and designed for developers made with the Agora App builder with my implementation to chat in real-time and create polls using Reactjs, Nodejs, Javascript and Typescript!
 
 ![image](https://user-images.githubusercontent.com/85001440/147855311-0948b1b1-9045-4ec3-b617-9253bab24b50.png)
 
