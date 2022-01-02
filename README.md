@@ -22,7 +22,7 @@ Note: The page may need to be re-sized in order to see the poll section, if so p
 What to expect:
 - Ability to chat publicly and privately in a room
 - Ability to share screen
-- Ability to create polls and record user data
+- Ability to create polls and record changing user data
 
  ## **Version 1.1.0: Coming Soon** ##
 Plans: 
